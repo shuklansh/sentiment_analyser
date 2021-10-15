@@ -11,5 +11,5 @@ if x < 0:
 elif x == 0:
     print("Neutral")
 #### if the statement polarity is greater than zero but also less than or equal to 1 -> the statement is positive #####
-elif x > 0 & x <= 1:
+elif 0 < x <= 1:
     print("Positive")
